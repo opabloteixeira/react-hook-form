@@ -1,5 +1,5 @@
 
-## :rocket: example of a react hook form with yup validation.
+## :rocket: example of a react hook form with yup validation
 
 
 ![png1](git-img/img1.png)
